@@ -28,18 +28,58 @@
 <h3 align="center">Feel free to reach out for any inquiries or collaborations.</h3>
 <br/>
 
-# ⬇ Download My CV:
-- :arrow_down: To download my CV, please click the button below:
+# 📄 Download My CV
+
+<table width="100%" align="center">
+  <tr align="center">
+    <td width="50%" >
+      <h3>🎓 CV Internship</h3>
+      <b>For Internship Positions</b>
+      <br><br>
+      <a href="https://res.cloudinary.com/dkhkjaual/image/upload/v1724685135/CV-NguyenVanPhu-Internship-FrontendDeveloper_4_p1fdtl.pdf">
+        <img width="300px" src="https://img.shields.io/badge/📥_Download_CV_Internship-1DB954?style=for-the-badge&logo=googledrive&logoColor=white&color=blue" alt="Download CV Internship" title="Download CV Internship">
+      </a>
+      <br><br>
+      <b>Alternative Link:</b>
+      <br><br>
+      <a href="https://tinyurl.com/yazam8ur">
+        <img width="250px" src="https://img.shields.io/badge/Alternative_Link-FF5733?style=flat-square&logoColor=white" alt="Alternative Link Internship" title="Alternative Link Internship">
+      </a>
+    </td>
+    <td width="50%">
+      <h3>💼 CV Fresher</h3>
+      <b>For Fresher/Junior Positions</b>
+      <br><br>
+      <a href="https://res.cloudinary.com/dkhkjaual/image/upload/v1724685135/CV-NguyenVanPhu-Internship-FrontendDeveloper_4_p1fdtl.pdf">
+        <img width="300px" src="https://img.shields.io/badge/📥_Download_CV_Fresher-1DB954?style=for-the-badge&logo=googledrive&logoColor=white&color=green" alt="Download CV Fresher" title="Download CV Fresher">
+      </a>
+      <br><br>
+      <b>Alternative Link:</b>
+      <br><br>
+      <a href="YOUR_FRESHER_ALTERNATIVE_LINK_HERE">
+        <img width="250px" src="https://img.shields.io/badge/Alternative_Link-FF5733?style=flat-square&logoColor=white" alt="Alternative Link Fresher" title="Alternative Link Fresher">
+      </a>
+    </td>
+  </tr>
+</table>
+
+## 📌 Quick Links
+
 <div align="center">
-  <a href="https://res.cloudinary.com/dkhkjaual/image/upload/v1724685135/CV-NguyenVanPhu-Internship-FrontendDeveloper_4_p1fdtl.pdf">
-     <img width="500px" src="https://img.shields.io/badge/Click here to Download CV Internship-1DB954?style=flat-square&logoColor=white&color=blue" alt="Download My CV" title="Download My CV">
-  </a>
-  <h3>OR</h3>
-  <h3>If the link above does not download my CV, please try this button:</h3>
-  <a href="https://tinyurl.com/yazam8ur">
-     <img width="500px" src="https://img.shields.io/badge/Click here to Download CV Alternative-1DB954?style=flat-square&logoColor=red&color=red" alt="Download My CV" title="Download My CV">
-  </a>
+  
+| CV Type | Primary Link | Alternative Link |
+|---------|-------------|------------------|
+| **Internship** | [Download PDF](https://res.cloudinary.com/dkhkjaual/image/upload/v1724685135/CV-NguyenVanPhu-Internship-FrontendDeveloper_4_p1fdtl.pdf) | [Backup Link](https://tinyurl.com/yazam8ur) |
+| **Fresher** | [Download PDF](YOUR_FRESHER_CV_LINK_HERE) | [Backup Link](YOUR_FRESHER_ALTERNATIVE_LINK_HERE) |
+
 </div>
+
+---
+
+### 📝 Notes
+- 🔄 Last updated: 23/09/2025. 
+- If you encounter any issues downloading the files, please feel free to contact me directly.
+---
 
 <br/>
 
@@ -159,11 +199,7 @@
     <td>2 Members</td>
   </tr>
 </table>
-
-[![Website "Bach Hoa Xanh" Clone](https://github-readme-stats.vercel.app/api/pin/?username=vanphudev&repo=website_bachhoaxanh_clone)](https://github.com/vanphudev/website_bachhoaxanh_clone)
-
 <br/>
-
 # 📊 Github Most Used Languages:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanphudev&layout=donut-vertical"/>
