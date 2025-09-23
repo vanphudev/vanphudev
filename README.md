@@ -37,7 +37,7 @@
       <b>For Internship Positions</b>
       <br><br>
       <a href="https://res.cloudinary.com/dkhkjaual/image/upload/v1724685135/CV-NguyenVanPhu-Internship-FrontendDeveloper_4_p1fdtl.pdf">
-        <img width="300px" src="https://img.shields.io/badge/📥_Download_CV_Internship-1DB954?style=for-the-badge&logo=googledrive&logoColor=white&color=blue" alt="Download CV Internship" title="Download CV Internship">
+        <img width="300px" src="https://img.shields.io/badge/Download_CV-1DB954?style=for-the-badge&logo=googledrive&logoColor=white&color=blue" alt="Download CV Internship" title="Download CV Internship">
       </a>
       <br><br>
       <b>Alternative Link:</b>
@@ -51,7 +51,7 @@
       <b>For Fresher/Junior Positions</b>
       <br><br>
       <a href="https://res.cloudinary.com/dkhkjaual/image/upload/v1724685135/CV-NguyenVanPhu-Internship-FrontendDeveloper_4_p1fdtl.pdf">
-        <img width="300px" src="https://img.shields.io/badge/📥_Download_CV_Fresher-1DB954?style=for-the-badge&logo=googledrive&logoColor=white&color=green" alt="Download CV Fresher" title="Download CV Fresher">
+        <img width="300px" src="https://img.shields.io/badge/Download_CV-1DB954?style=for-the-badge&logo=googledrive&logoColor=white&color=green" alt="Download CV Fresher" title="Download CV Fresher">
       </a>
       <br><br>
       <b>Alternative Link:</b>
@@ -158,20 +158,40 @@
 
 <br/>
 
-# 👨‍💻 Skills:
-![Languages C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Languages HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![Languages CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![Languages HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Languages CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Languages Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Languages JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Languages Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Languages Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Languages PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Languages React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Languages Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Languages Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+# 👨‍💻 Skills
+
+## 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+## ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+---
+
+## 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+## 🛠️ Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 <br/>
 
@@ -200,6 +220,7 @@
   </tr>
 </table>
 <br/>
+
 # 📊 Github Most Used Languages:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanphudev&layout=donut-vertical"/>
@@ -213,9 +234,7 @@
 
 # 🔥 Github Stats & Streak:
 <div align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=vanphudev&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/><br/>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=vanphudev&theme=radical&hide_border=false"/><br/>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanphudev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=vanphudev&theme=radical&hide_border=false"/>
 </div>
 
 <br/>
